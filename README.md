@@ -1,4 +1,4 @@
 # learner-demo
 This is my first git repository
 <br>
-Author - Divya Nehete
+Author - Divya(learner)
